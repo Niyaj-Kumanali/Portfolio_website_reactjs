@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio_website_reactjs.git/static/css/main.25c98bc6.css",
+    "main.js": "/Portfolio_website_reactjs.git/static/js/main.3f4429ef.js",
+    "static/media/profile.png": "/Portfolio_website_reactjs.git/static/media/profile.2b657cfde1edce90cb87.png",
+    "static/media/mountain.png": "/Portfolio_website_reactjs.git/static/media/mountain.b19dbf26d975bcb5b48d.png",
+    "static/media/reactjs.png": "/Portfolio_website_reactjs.git/static/media/reactjs.0af244faeef94fbe5f93.png",
+    "static/media/python.png": "/Portfolio_website_reactjs.git/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/sql.png": "/Portfolio_website_reactjs.git/static/media/sql.ca43e7ff4eed6220566a.png",
+    "static/media/machine-learning.png": "/Portfolio_website_reactjs.git/static/media/machine-learning.6c16ae01f8e0b5accf9a.png",
+    "static/media/java.png": "/Portfolio_website_reactjs.git/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/html.png": "/Portfolio_website_reactjs.git/static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "static/media/css.png": "/Portfolio_website_reactjs.git/static/media/css.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/Portfolio_website_reactjs.git/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Portfolio_website_reactjs.git/index.html",
+    "main.25c98bc6.css.map": "/Portfolio_website_reactjs.git/static/css/main.25c98bc6.css.map",
+    "main.3f4429ef.js.map": "/Portfolio_website_reactjs.git/static/js/main.3f4429ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25c98bc6.css",
+    "static/js/main.3f4429ef.js"
+  ]
+}
