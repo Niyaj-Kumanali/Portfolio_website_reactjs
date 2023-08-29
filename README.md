@@ -1,4 +1,3 @@
-Portfolio/Resume Website using React JS.
 
 Clone or Download the project
 
@@ -8,7 +7,7 @@ Open Terminal
 
 Type the below commands
 
-$ cd Portfolio_Website_React JS
+$ cd Portfolio_website_reactjs
 
 $ npm install
 
