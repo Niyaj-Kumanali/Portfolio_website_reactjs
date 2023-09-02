@@ -5,9 +5,12 @@ class Contact extends Component {
     return (
       <div className="condiv">
         <h1 className="subtopic">Contact Me</h1>
-        <h3>Email : niyajkumanali@gmail.com</h3>
-        <h3>Instagram : ili____n_i_y_a_z____ili</h3>
-        <Social />
+        <a href="mailto:niyajkumanali@email.com" target="_blank" rel="noreferrer"><i className="fa fa-envelope"></i>&nbsp;&nbsp;niyajkumanali@gmail.com</a><br/><br/>
+        <a href="https://codepen.io/niyaj-kumanali" target="_blank" rel="noopener noreferrer"><i className="fab fa-codepen"></i>&nbsp;&nbsp;CodePen</a><br/><br/>
+        <a href="https://github.com/niyaj-kumanali" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i>&nbsp;&nbsp;GitHub</a><br/><br/>
+        <a href="https://Instagram.com/ili____n_i_y_a_z____ili" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i>&nbsp;&nbsp;Instagram</a><br/><br/>
+        <a href="https://Linkedin.com/in/Niyaj-Kumanali" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"></i>&nbsp;&nbsp;LinkedIN</a><br/><br/>
+
       </div>
     );
   }

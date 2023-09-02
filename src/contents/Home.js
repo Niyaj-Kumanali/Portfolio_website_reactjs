@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import ReactTypingEffect from "react-typing-effect";
 import profilepic from "../img/profile.png";
 import Social from "../components/Social";
@@ -15,7 +15,6 @@ export default function Home() {
         eraseDelay={700}
       /> */}
       <Intro />
-      <Social />
     </div>
   );
 }

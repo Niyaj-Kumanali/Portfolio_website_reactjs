@@ -1,15 +1,14 @@
 import React from 'react';
 import './App.css';
 import {
-  BrowserRouter as Router,
-  Route,
-} from "react-router-dom";
+  BrowserRouter as Router, Route} from "react-router-dom";
 import Navbar from './components/Navbar';
 import Home from './contents/Home';
 import About from './contents/About';
 import Education from './contents/Education';
 import Skills from './contents/Skills';
 import Contact from './contents/Contact';
+import Projects from './contents/Projects';
 
 
 
@@ -32,6 +31,9 @@ function App() {
         </Route>
         <Route path="/contact">
           <Contact />
+        </Route>
+        <Route path="/projects">
+          <Projects />
         </Route>
       </div>
     </Router>
