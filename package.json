@@ -1,5 +1,5 @@
 {
-  "name": "Portfolio_Website_ReactJS",
+  "name": "portfolio_website_reactjs",
   "homepage": "https://niyaj-kumanali.io/Portfolio_website_reactjs.git",
   "version": "0.1.0",
   "private": true,
@@ -43,5 +43,28 @@
   "devDependencies": {
     "@types/react-router-dom": "^5.3.3",
     "gh-pages": "^6.0.0"
+  },
+  "description": "Clone or Download the project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niyaj-Kumanali/Portfolio_website_reactjs.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web",
+    "developer",
+    "web",
+    "designer",
+    "ui/ux",
+    "designer",
+    "front-end",
+    "developer",
+    "projects"
+  ],
+  "author": "Niyaj Kumanali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niyaj-Kumanali/Portfolio_website_reactjs/issues"
   }
 }
